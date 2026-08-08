@@ -8,6 +8,15 @@ The models were trained and evaluated on a publicly available satellite imagery 
 
 ---
 
+## Team Members
+
+| Name | GitHub |
+|------|--------|
+| Rahul Biswal | [rahulbiswal07](https://github.com/rahulbiswal07/) |
+| Asifuddin Khan | [Asifuddin99](https://github.com/Asifuddin99/) |
+
+---
+
 ## Dataset
 
 Dataset used:
